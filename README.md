@@ -49,7 +49,7 @@ Project created by <a href="https://github.com/Monsterlallu">Monster lallu</a> t
 <a href="https://youtu.be/dm_kVZ0m2eY" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 ```
   
-Ajuser_v2 Userbot is Open Source software open to development. 
+Lallu-sir Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
