@@ -48,7 +48,7 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 │ ʜᴇʏ ᴜsᴇʀ ` + wish + `
 │         *⌚` + time + `*
 │
-│ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ᴀᴊᴜ 
+│ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : LALLU 
 │ ▢ *ᴏᴡɴᴇʀ* :` + config.BOT + `
 │ ▢ *ᴠᴇʀsɪᴏɴ* : 1.0
 │ ▢ *ғᴜʟʟ ᴇᴠᴀ* : ` + eva + `
@@ -138,7 +138,7 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 │ ▢ .sᴇᴛᴠᴀʀ
 │ 
 │
-│   ❏ *Ajuser* ❏
+│   ❏ *LALLU-SIR* ❏
 ╰──────────────────╯
 `}) 
 
