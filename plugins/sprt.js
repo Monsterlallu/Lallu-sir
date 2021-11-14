@@ -39,7 +39,7 @@ r_text[26] = "\nAthu enne uddheshichanu… enne thanney uddheshichanu… enne ma
 r_text[27] = "\nBeedi undo saghave, oru theepetti edukkan\n";
 r_text[28] = "\nIppo sheriyakithara… ippo sheriyakithara…\n";
 r_text[29] = "\nEnne kollathirikkan pattuo? illa alley?\n";
-r_text[30] = "motivate cheyaan aarkum kayyum ath cheyth kaanikkaaana paad.\n       -Ajuser";    
+r_text[30] = "motivate cheyaan aarkum kayyum ath cheyth kaanikkaaana paad.\n       -Lallusir";    
 var i = Math.floor(31*Math.random())
 
 await message.sendMessage(r_text[i]);
