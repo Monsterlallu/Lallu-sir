@@ -49,7 +49,7 @@ await message.sendMessage(r_text[i]);
 
 else if (Config.WORKTYPE == 'public') {
 
-Asena.addCommand({pattern: 'Ajuser', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+Asena.addCommand({pattern: 'Lallusir', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
         
     var r_text = new Array ();    
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
