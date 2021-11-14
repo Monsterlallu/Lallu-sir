@@ -151,7 +151,7 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "Ajuser bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "Lallusir bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
