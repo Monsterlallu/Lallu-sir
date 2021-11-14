@@ -84,16 +84,16 @@ All setvars are
  To change bad word remove list
  .setvar THERI_LIST:badword,badword
  
- To change Ajuser bot name
+ To change Lallusir bot name
  .setvar BOT_NAME:your bot name
  
  To get a song when your number is mentioned
  .setvar TAG_REPPLY:your jid 
  
-     *happy using Ajuser bot ❣️*
+     *happy using Lallusir bot ❣️*
      
-*Editing And Devaloper : Aju -Ajuser*
-*Erorr Fixing : aju 💌*
+*Editing And Devaloper : Lallu -Lallusir*
+*Erorr Fixing : lallu 💌*
 *Supporting :  🤍*
 *User Support :❤*
       ═════💢💢═════
