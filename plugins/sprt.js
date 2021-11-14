@@ -53,7 +53,7 @@ Asena.addCommand({pattern: 'Lallusir', fromMe: false,dontAddCommandList: true}, 
         
     var r_text = new Array ();    
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
-r_text[1] = "Ajuserne tholpikkaan ningalkavilla. Jeevitathil pinkiye tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
+r_text[1] = "Lallusirne tholpikkaan ningalkavilla. Jeevitathil pinkiye tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
 r_text[2] = "Ajuser says i love you 😘";
 r_text[3] = "Ajusernte yudhangal Company Kanan Povunnatheyuloo";
 r_text[4] = "hi, how are you";
