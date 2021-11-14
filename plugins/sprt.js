@@ -54,11 +54,11 @@ Asena.addCommand({pattern: 'Lallusir', fromMe: false,dontAddCommandList: true}, 
     var r_text = new Array ();    
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
 r_text[1] = "Lallusirne tholpikkaan ningalkavilla. Jeevitathil pinkiye tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
-r_text[2] = "Ajuser says i love you 😘";
-r_text[3] = "Ajusernte yudhangal Company Kanan Povunnatheyuloo";
+r_text[2] = "Lallusir says i love you 😘";
+r_text[3] = "Lallusirnte yudhangal Company Kanan Povunnatheyuloo";
 r_text[4] = "hi, how are you";
 r_text[5] = "ennikk korch rest theroo...🥵🥵";
-r_text[6] = "Ajuser - eva - simsim \ningane ethra ethra paerugal aan alle enikk..😂🤣";
+r_text[6] = "Lallusir - eva - simsim \ningane ethra ethra paerugal aan alle enikk..😂🤣";
 r_text[7] = "താനാരാണെന്ന് തനിക്ക് അറിയാന്‍ മേലങ്കില്‍താന്‍ എന്നോട്‌ ചോദിക്ക്.. താനാരണെന്ന്...തനിക്ക് ഞാന്‍ പറഞ്ഞു തരാംതാനാരാണെന്ന്...എന്നിട്ട്‌ഞാനാരാണെന്ന് എനിക്കാറിയാമൊന്നുതാനെന്നോട്‌ ചോദിക്ക്..അപ്പോ തനിക്ക് ഞാന്‍ പറഞ്ഞു തരാംതാനാരാണെന്നും ..ഞാനാരാണെന്നും - കുതിരവട്ടം പപ്പു, മണിച്ചിത്രതാഴ് ";
 r_text[8] = "\n enne vilicho...?🧐 \n";
 r_text[9] = "ente per Ajuser ninte per donkey, backi ellarum monkey😼😼";
