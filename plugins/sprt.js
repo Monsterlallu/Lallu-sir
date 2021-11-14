@@ -6,19 +6,19 @@ const Config = require('../config');
 
 if (Config.WORKTYPE == 'private') {
 
-Asena.addCommand({pattern: 'Ajuser', fromMe: true,dontAddCommandList: true}, (async (message, match) => {
+Asena.addCommand({pattern: 'Lallusir', fromMe: true,dontAddCommandList: true}, (async (message, match) => {
         
     var r_text = new Array ();    
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
-r_text[1] = "ajune tholpikkaan ningalkavilla. Jeevitathil ajune tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
-r_text[2] = "Aju says i love you 😘";
-r_text[3] = "ajuvete udhangal Company Kanan Povunnatheyuloo";
+r_text[1] = "lallune tholpikkaan ningalkavilla. Jeevitathil ajune tholpichittundu… palarum… palavattom…😥😥 aarellum aaa sed bgm onn iduo...";
+r_text[2] = "Lallu says i love you 😘";
+r_text[3] = "lalluvete udhangal Company Kanan Povunnatheyuloo";
 r_text[4] = "hi, how are you";
 r_text[5] = "ennikk korch rest theroo...🥵🥵";
-r_text[6] = "Ajuser- eva - simsim \ningane ethra ethra paerugal aan alle enikk..😂🤣";
+r_text[6] = "Lallusir- eva - simsim \ningane ethra ethra paerugal aan alle enikk..😂🤣";
 r_text[7] = "താനാരാണെന്ന് തനിക്ക് അറിയാന്‍ മേലങ്കില്‍താന്‍ എന്നോട്‌ ചോദിക്ക്.. താനാരണെന്ന്...തനിക്ക് ഞാന്‍ പറഞ്ഞു തരാംതാനാരാണെന്ന്...എന്നിട്ട്‌ഞാനാരാണെന്ന് എനിക്കാറിയാമൊന്നുതാനെന്നോട്‌ ചോദിക്ക്..അപ്പോ തനിക്ക് ഞാന്‍ പറഞ്ഞു തരാംതാനാരാണെന്നും ..ഞാനാരാണെന്നും - കുതിരവട്ടം പപ്പു, മണിച്ചിത്രതാഴ് ";
 r_text[8] = "\n enne vilicho...?🧐 \n";
-r_text[9] = "ente per Ajuser,ninte per donkey, backi ellarum monkey😼😼";
+r_text[9] = "ente per Lallusir,ninte per donkey, backi ellarum monkey😼😼";
 r_text[10] = "nee vilicha enikk villi kelkathe irrikkaan pattuo";
 r_text[11] = "do you know who is my creator..? its none other than aju";
 r_text[12] = "രണ്ട് ബക്കറ്റ് നിറയെ വെള്ളമുണ്ട്. അതിൽ ഒരു ബക്കറ്റിനു ദ്വാരമുള്ളതാണ്. എന്നാൽ ദ്വാരമുള്ള ബക്കറ്റിൽ നിന്നും വെള്ളം പോകുന്നില്ല. കാരണം എന്താണ്? para ninak vivaram indo nokkatte";
