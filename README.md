@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/K5bqKHr/20210928-161812.png""width="170" height="170"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="https://www.linkpicture.com/q/PicsArt_01-24-03.33.44.jpg""width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="Lallu-sir" src="https://img.shields.io/badge/-Lallu sir-red?&style=for-the-badge"></a>
 </p>
